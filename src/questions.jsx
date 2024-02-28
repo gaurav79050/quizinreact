@@ -67,7 +67,7 @@ export let questions = [
       "question": "Which PHP function is used to redirect the user to a different page?",
       "description": "Redirecting in PHP",
       "answers": [ "redirect()","header()", "location()", "forward()"],
-      "c_answer": "header()"
+      "c_answer": "header()" 
     }
   ]
   
