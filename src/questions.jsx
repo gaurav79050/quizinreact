@@ -31,7 +31,7 @@ export let questions = [
       "id": 5,
       "question": "What does the function `echo` do in PHP?",
       "description": "Purpose of the `echo` function",
-      "answers": ["Calculates a mathematical expression", "Accepts user input", "Defines a function"],
+      "answers": ["Calculates a mathematical expression", "Outputs one or more strings" "Accepts user input", "Defines a function"],
       "c_answer": "Outputs one or more strings"
     },
     {
